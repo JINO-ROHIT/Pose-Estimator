@@ -32,4 +32,4 @@ Clone the Repository and extract the files
 
 ## Example Output
 
-![Estimated Score](Faceblur.png)
+![the attribute list](attributes.png)
