@@ -30,6 +30,6 @@ Clone the Repository and extract the files
 3. Run the code with command `python main.py`
 4. Make sure to use your own video
 
-## Example Output
+## The Attributes List
 
 ![the attribute list](attributes.png)
